@@ -1,10 +1,11 @@
 body {
     background-color: white;
-    font-family: helvetica;
+    font-family: arial;
     color: black;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30em 
+    vertical-align: top;
+    margin-left: 1em;
+    margin-right: 1em;
+    width: 23em 
 }
 
 p {
