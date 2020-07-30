@@ -28,3 +28,21 @@ div.container {
     /* text-align: center; */
 }
  
+A {
+    color: rgb(59, 123, 246);
+    line-height: 45px;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+A:link{
+    text-decoration: none; 
+    color: rgb(59, 123, 246);
+}
+A:hover{
+    text-decoration: underline; 
+    color: rgb(59, 123, 246);
+}
+A:visited{
+    text-decoration: none; 
+    color: rgb(59, 123, 246);
+}

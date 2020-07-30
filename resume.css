@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(28, 28, 28);
+    font-family: charter;
+    color: rgb(238, 238, 238);
+    vertical-align: top;
+    margin-left: 1em;
+    margin-right: 1em;
+    /* width: 23em  */
+}
+
+p {
+    color: rgb(194, 194, 194);
+    line-height: 17px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+h2{
+    margin-bottom: 1px;
+    /* line-height: 0px; */
+}
+
+h3{
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+h4{
+    line-height: 10px;
+    margin-bottom: 20px;
+}
+
+A {
+    color: rgb(59, 123, 246);;
+    line-height: 23px;
+    font-size: 17px;
+    margin-bottom: 8px;
+}
+A:link{
+    text-decoration: none; 
+    color: rgb(59, 123, 246);;
+}
+A:hover{
+    text-decoration: underline; 
+    color: rgb(59, 123, 246);;
+}
+A:visited{
+    text-decoration: none; 
+    color: rgb(59, 123, 246);;
+}
