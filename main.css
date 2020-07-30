@@ -1,17 +1,30 @@
 body {
-    background-color: black;
+    background-color: rgb(28, 28, 28);
     font-family: charter;
-    color: white;
+    color: rgb(238, 238, 238);
     vertical-align: top;
     margin-left: 1em;
     margin-right: 1em;
-    width: 23em 
+    /* width: 23em  */
 }
 
 p {
+    line-height: 23px;
     font-size: 20px;
+    margin-bottom: 8px;
 }
 
 div.container {
     display:inline-block;
+    margin-right: 3px;
 }
+
+.footer {
+    position: fixed;
+    left: 1em;
+    bottom: 1em;
+    width: 100%;
+    color: white;
+    /* text-align: center; */
+}
+ 
